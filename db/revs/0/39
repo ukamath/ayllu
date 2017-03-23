@@ -1,0 +1,114 @@
+id: 6-9.0.r39/0
+type: file
+pred: 6-9.0.r38/544
+count: 2
+text: 9 12928570 382 639 f6bb56c8283c226c489f4a49b4837050 8db10a0aaaebc727b939dbc1f48acc5b20721082 38-12/_3
+cpath: /ayllu/trunk/ayllu.properties
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 18
+file 2-9.0.r38/337
+K 8
+.project
+V 22
+file 4-9.0.r9/16459777
+K 10
+README.txt
+V 18
+file 5-9.0.r34/382
+K 32
+ayllu-jsat-clustering.properties
+V 19
+file 2-32.0.r32/545
+K 16
+ayllu.properties
+V 16
+file 6-9.0.r39/0
+K 4
+conf
+V 19
+dir 2-13.0.r13/1096
+K 4
+data
+V 21
+dir 2-33.0.r33/120947
+K 3
+doc
+V 21
+dir 7-9.0.r9/16460369
+K 3
+lib
+V 21
+dir 8-9.0.r31/3393822
+K 7
+pom.xml
+V 19
+file d-12.0.r36/271
+K 3
+src
+V 19
+dir ma-9.0.r38/3247
+END
+ENDREP
+id: 2-8.0.r39/671
+type: dir
+pred: 2-8.0.r38/3859
+count: 18
+text: 39 216 442 442 58150c784fe5ade6e5d9b4a696afee85
+props: 13 1598 37 0 7407d8e22a2e06c0830993cc178e770d
+cpath: /ayllu/trunk
+copyroot: 0 /
+
+PLAIN
+K 5
+trunk
+V 17
+dir 2-8.0.r39/671
+END
+ENDREP
+id: 0-8.0.r39/922
+type: dir
+pred: 0-8.0.r38/4112
+count: 18
+text: 39 872 37 37 c4c538e71aaf7be72584fa16e10d638a
+cpath: /ayllu
+copyroot: 0 /
+
+PLAIN
+K 5
+ayllu
+V 17
+dir 0-8.0.r39/922
+K 11
+ayllu-spark
+V 18
+dir 0-6.0.r37/8186
+K 8
+datasets
+V 21
+dir 0-2.0.r2/16625988
+K 17
+empiricalanalysis
+V 20
+dir 0-1.0.r1/2501675
+K 13
+parallel-code
+V 17
+dir 0-3.0.r5/1431
+END
+ENDREP
+id: 0.0.r39/1284
+type: dir
+pred: 0.0.r38/4477
+count: 39
+text: 39 1062 209 209 fb7f38afaa684a363da3efdbd36af8c8
+cpath: /
+copyroot: 0 /
+
+6-9.0.t38-12 modify-file true false /ayllu/trunk/ayllu.properties
+
+
+1284 1419

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+hblanco
+K 8
+svn:date
+V 27
+2015-02-26T16:13:23.905393Z
+K 7
+svn:log
+V 55
+Was using incorrect classify() API to calculate weights
+END

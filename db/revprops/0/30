@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+USER
+K 8
+svn:date
+V 27
+2015-03-01T14:57:12.176550Z
+K 7
+svn:log
+V 78
+Made Changes to support Clustering and JSAT along with Classification and Weka
+END

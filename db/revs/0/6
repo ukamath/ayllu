@@ -1,0 +1,53 @@
+id: 2-6.0.r6/0
+type: dir
+count: 0
+cpath: /ayllu-spark/trunk
+copyroot: 0 /
+
+PLAIN
+K 5
+trunk
+V 14
+dir 2-6.0.r6/0
+END
+ENDREP
+id: 0-6.0.r6/122
+type: dir
+count: 0
+text: 6 75 34 34 cb85e60d4d494c019dd3a6b52ed6dd59
+cpath: /ayllu-spark
+copyroot: 0 /
+
+PLAIN
+K 11
+ayllu-spark
+V 16
+dir 0-6.0.r6/122
+K 8
+datasets
+V 21
+dir 0-2.0.r2/16625988
+K 17
+empiricalanalysis
+V 20
+dir 0-1.0.r1/2501675
+K 13
+parallel-code
+V 17
+dir 0-3.0.r5/1431
+END
+ENDREP
+id: 0.0.r6/430
+type: dir
+pred: 0.0.r5/1725
+count: 6
+text: 6 243 174 174 296567442bba3e6f734cecf2603c67a0
+cpath: /
+copyroot: 0 /
+
+_0.0.t5-5 add-dir false false /ayllu-spark
+
+_2.0.t5-5 add-dir false false /ayllu-spark/trunk
+
+
+430 559

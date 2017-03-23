@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+USER
+K 8
+svn:date
+V 27
+2015-02-24T19:03:51.624302Z
+K 7
+svn:log
+V 173
+Changed Learner to have copy method, WekaClassifier.java implements a deep copy of the learner and ClassifierWrapAroundGrid creates copies while distributing it to the nodes
+END
